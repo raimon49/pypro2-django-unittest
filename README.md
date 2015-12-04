@@ -1,0 +1,2 @@
+# pypro2-django-unittest
+Pythonプロフェッショナルプログラミング第2版のDjangoのテストを実行する演習
