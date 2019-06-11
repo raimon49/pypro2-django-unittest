@@ -5,9 +5,9 @@
 #    pip-compile --output-file requirements.txt requirements.in
 #
 click==7.0                # via pip-tools
-coverage==4.5.2
-django==1.11.20
-pip-tools==3.3.2
-pytz==2018.9              # via django
+coverage==4.5.3
+django==1.11.21
+pip-tools==3.8.0
+pytz==2019.1              # via django
 six==1.12.0               # via pip-tools, unittest-xml-reporting
-unittest-xml-reporting==2.2.1
+unittest-xml-reporting==2.5.1
