@@ -1,4 +1,4 @@
 coverage
-django~=1.11.22
+django~=1.11.23
 unittest-xml-reporting
 pip-tools
