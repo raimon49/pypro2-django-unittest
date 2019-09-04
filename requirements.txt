@@ -6,8 +6,8 @@
 #
 click==7.0                # via pip-tools
 coverage==4.5.4
-django==1.11.23
-pip-tools==4.0.0
+django==1.11.24
+pip-tools==4.1.0
 pytz==2019.2              # via django
 six==1.12.0               # via pip-tools, unittest-xml-reporting
 unittest-xml-reporting==2.5.1
