@@ -4,10 +4,13 @@
 #
 #    pip-compile requirements.in
 #
-click==7.0                # via pip-tools
-coverage==5.0.3
-django==1.11.29
-pip-tools==4.5.1
-pytz==2019.3              # via django
-six==1.14.0               # via pip-tools
-unittest-xml-reporting==3.0.1
+click==7.1.2              # via pip-tools
+coverage==5.2             # via -r requirements.in
+django==1.11.29           # via -r requirements.in
+pip-tools==5.2.1          # via -r requirements.in
+pytz==2020.1              # via django
+six==1.15.0               # via pip-tools
+unittest-xml-reporting==3.0.2  # via -r requirements.in
+
+# The following packages are considered to be unsafe in a requirements file:
+# pip
